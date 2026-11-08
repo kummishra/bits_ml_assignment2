@@ -122,7 +122,7 @@ Metric notes: Precision, Recall and F1 are **weighted averages** across the 7 cl
 ## 🚀 How to Run
 
 ### Prerequisites
-- Python 3.8 or higher
+- Python 3.13 (the pinned package versions in requirements.txt need Python 3.11+)
 - pip package manager
 
 ### Installation Steps
@@ -219,7 +219,7 @@ The deployed Streamlit application includes:
 ## 📱 Streamlit Community Cloud Deployment
 
 ### Live Application Link
-**Live app:** _add your Streamlit Community Cloud URL here after deployment_
+**Live app:** https://2026aj05545-bitsmlassignment2.streamlit.app/
 
 ### Deployment Steps (For Reference)
 
@@ -348,7 +348,8 @@ The deployed Streamlit application includes:
 
 ## 👤 Author
 
-**Name / ID:** _your name and BITS ID_  
+**Name:** Vivek Kumar  
+**BITS ID:** 2026aj05545  
 **Course:** M.Tech (AIML) - Machine Learning (BITS WILP)  
 **Assignment:** 2  
 **Submission Date:** 08-Nov-2026
